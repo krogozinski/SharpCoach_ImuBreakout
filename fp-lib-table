@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BMG250)(type KiCad)(uri ${KICAD_USER_FOOTPRINT_DIR}/Sensor_Motion/BMG250.pretty)(options "")(descr "Bosch BMG250 gyroscope footprint"))
+  (lib (name LIS3DH)(type KiCad)(uri ${KICAD_USER_FOOTPRINT_DIR}/Sensor_Motion/LIS3DH.pretty)(options "")(descr "ST LIS3DH accelerometer footprint"))
+)
