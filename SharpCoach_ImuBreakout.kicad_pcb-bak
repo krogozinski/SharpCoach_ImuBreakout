@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 4)
+    (drawings 8)
     (tracks 209)
     (zones 0)
     (modules 10)
@@ -26,7 +26,7 @@
     (42 Eco1.User user)
     (43 Eco2.User user)
     (44 Edge.Cuts user)
-    (45 Margin user)
+    (45 Margin user hide)
     (46 B.CrtYd user)
     (47 F.CrtYd user)
     (48 B.Fab user)
@@ -61,7 +61,7 @@
     (mod_text_width 0.15)
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
-    (pad_to_mask_clearance 0.2)
+    (pad_to_mask_clearance 0.0508)
     (aux_axis_origin 0 0)
     (grid_origin 134.366 89.154)
     (visible_elements 7FFDFFFF)
@@ -591,6 +591,10 @@
       (net 10 /MISO_GYRO))
   )
 
+  (gr_line (start 134.366 110.998) (end 134.366 89.154) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 159.004 110.998) (end 134.366 110.998) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 159.004 89.154) (end 159.004 110.998) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 134.366 89.154) (end 159.004 89.154) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 134.366 110.998) (end 134.366 89.154) (layer Margin) (width 0.2))
   (gr_line (start 159.004 110.998) (end 134.366 110.998) (layer Margin) (width 0.2))
   (gr_line (start 159.004 89.154) (end 159.004 110.998) (layer Margin) (width 0.2))
