@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name BMG250)(type Legacy)(uri ${KICAD_USER_SYMBOL_DIR}/Sensor_Motion/BMG250/BMG250.lib)(options "")(descr ""))
-  (lib (name LIS3DH)(type Legacy)(uri ${KICAD_USER_SYMBOL_DIR}/Sensor_Motion/LIS3DH/LIS3DH.lib)(options "")(descr ""))
+  (lib (name BMG250)(type Legacy)(uri ${KIPRJMOD}/kr-kicad-lib-symbol/Sensor_Motion/BMG250/BMG250.lib)(options "")(descr ""))
+  (lib (name LIS3DH)(type Legacy)(uri ${KIPRJMOD}/kr-kicad-lib-symbol/Sensor_Motion/LIS3DH/LIS3DH.lib)(options "")(descr ""))
+  (lib (name LSM6DS33)(type Legacy)(uri ${KIPRJMOD}/kr-kicad-lib-symbol/Sensor_Motion/LSM6DS33/LSM6DS33.lib)(options "")(descr ""))
+  (lib (name PMOD_Type2A_Variant01)(type Legacy)(uri ${KIPRJMOD}/kr-kicad-lib-symbol/Connector/PMOD/PMOD_Type2A_Variant01.lib)(options "")(descr ""))
 )

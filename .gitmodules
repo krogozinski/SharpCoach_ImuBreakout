@@ -1,0 +1,6 @@
+[submodule "kr-kicad-lib-symbol"]
+	path = kr-kicad-lib-symbol
+	url = https://github.com/krogozinski/kr-kicad-lib-symbol
+[submodule "kr-kicad-lib-footprint"]
+	path = kr-kicad-lib-footprint
+	url = https://github.com/krogozinski/kr-kicad-lib-footprint

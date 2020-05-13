@@ -1,4 +1,6 @@
 (fp_lib_table
-  (lib (name BMG250)(type KiCad)(uri ${KICAD_USER_FOOTPRINT_DIR}/Sensor_Motion/BMG250.pretty)(options "")(descr "Bosch BMG250 gyroscope footprint"))
-  (lib (name LIS3DH)(type KiCad)(uri ${KICAD_USER_FOOTPRINT_DIR}/Sensor_Motion/LIS3DH.pretty)(options "")(descr "ST LIS3DH accelerometer footprint"))
+  (lib (name BMG250)(type KiCad)(uri ${KIPRJMOD}/kr-kicad-lib-footprint/Sensor_Motion/BMG250.pretty)(options "")(descr "Bosch BMG250 gyroscope footprint"))
+  (lib (name LIS3DH)(type KiCad)(uri ${KIPRJMOD}/kr-kicad-lib-footprint/Sensor_Motion/LIS3DH.pretty)(options "")(descr "ST LIS3DH accelerometer footprint"))
+  (lib (name LSM6DS33)(type KiCad)(uri ${KIPRJMOD}/kr-kicad-lib-footprint/Sensor_Motion/LSM6DS33.pretty)(options "")(descr "ST LSM6DS33 IMU footprint"))
+  (lib (name PMOD_SpecB)(type KiCad)(uri ${KIPRJMOD}/kr-kicad-lib-footprint/Connector/PMOD_SpecB.pretty)(options "")(descr "PMOD Spec B footprint"))
 )

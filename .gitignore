@@ -1,0 +1,5 @@
+*.bak
+*.lib
+*-bak
+*-rescue.*
+fp-info-cache
